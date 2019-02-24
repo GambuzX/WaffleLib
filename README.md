@@ -1,4 +1,4 @@
-# WaffleLib :chocolate_bar:
+# WaffleLib
 Window system and manager for Minix 3 developed as the final project for LCOM.
 
 Also features **ChocoTab**, a graphical environment created using this library to display its features and capabilities.
