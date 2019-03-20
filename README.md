@@ -13,7 +13,7 @@ The purpose of this project was to create a program which made use of the **peri
 
 **VIDEO**: https://www.youtube.com/watch?v=kQY2zlnmaZs&lc=
 
-#### Project Grade: ?
+#### Project Grade: 20
 
 ### Description
 
